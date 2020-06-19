@@ -2,17 +2,17 @@ body {
   background: #595959;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #0D0D0D, #0D0D0D);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #0D0D0D, #0D0D0D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  font-family: Chelsea Market;
+  font-family: Roboto;
   margin: 0px;
 }
 
 h1 {
-  font-family: 'Chelsea Market';
+  font-family: 'Roboto';
   font-size: 32px;
 }
 
 h2, h3, h4 {
-  font-family: 'Chelsea Market';
+  font-family: 'Roboto';
   font-size: 28px;
 }
 
@@ -159,5 +159,15 @@ p, ul, ol {
 
 .color-White{
   color: #F2F2F2
+}
+
+.my-btn{
+display: inline-block;
+  color: #595959;
+  background: #8C030E;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: lighter;
 }
 
